@@ -1,12 +1,12 @@
 {
-  "version": "2.0.1",
+  "version": "2.1.0",
   "project": "alexander-city-weather-clock",
   "hardware": "DFR1075-v1.2-GDEM102T91",
   "target": "esp32c6",
   "layout": "default-4mb-ota-0x140000-v1",
   "config_schema": 1,
   "flash_bytes": 4194304,
-  "url": "https://jensens73-coder.github.io/weather-clock-releases/WeatherClock-2.0.1.bin",
-  "size": 1271088,
-  "sha256": "9d89b4a4a249f815ffde1a46d416453e89f1bec2b7ad6cf97de47db5d180d056"
+  "url": "https://jensens73-coder.github.io/weather-clock-releases/WeatherClock-2.1.0.bin",
+  "size": 1277088,
+  "sha256": "e0c5524365d98a83ef96f955cce54d6b550c6d2bdb71e5e2189631de7f142db5"
 }
